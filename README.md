@@ -68,8 +68,14 @@ figures/                       ← 그림 파일 저장
 → 내용차례 → 국문초록 → 감사의글 → **본문**
 → 참고문헌 → 부록 → **영문초록** → 속지 → 뒤표지
 
-## Source
+## 출처
 
-This template was created based on the official Dankook University Graduate School thesis guideline and Microsoft Word template:
+본 템플릿은 단국대학교 대학원 학위논문 작성지침 및 Microsoft Word 양식을 참고하여 제작되었습니다.
 
-- [Dankook University Graduate School Thesis Guideline](https://grad.dankook.ac.kr/-21?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=1&_dku_bbs_web_BbsPortlet_sKeyword=%ED%95%99%EC%9C%84&_dku_bbs_web_BbsPortlet_sKeyType=title&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=114775)
+- [단국대학교 대학원 학위논문 작성지침](https://grad.dankook.ac.kr/-21?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=1&_dku_bbs_web_BbsPortlet_sKeyword=%ED%95%99%EC%9C%84&_dku_bbs_web_BbsPortlet_sKeyType=title&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=114775)
+
+## 기여
+
+오류 수정, 기능 개선, 서식 개선 등 모든 기여를 환영합니다.
+
+Issue 및 Pull Request를 편하게 등록해 주세요.
