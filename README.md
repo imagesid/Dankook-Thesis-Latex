@@ -3,6 +3,11 @@
 
 > **대학원 학위논문 작성지침 기반 LaTeX 템플릿**
 
+## Versions
+
+- [Korean Version](https://github.com/imagesid/Dankook-Thesis-Latex)
+- [English Version](https://github.com/imagesid/Dankook-Thesis-Latex/tree/english)
+
 ⭐ 템플릿이 도움이 되었다면 GitHub Star를 남겨주시면 큰 힘이 됩니다 :)
 
 ## 통계
