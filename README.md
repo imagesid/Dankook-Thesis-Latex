@@ -1,5 +1,5 @@
 # 단국대학교 대학원 학위논문 LaTeX 템플릿
-# Dankook University Graduate School Thesis Template
+# Dankook University Graduate School Thesis Template (English Version)
 
 > **대학원 학위논문 작성지침 기반 LaTeX 템플릿**
 
