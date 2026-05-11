@@ -1,16 +1,18 @@
 # 단국대학교 대학원 학위논문 LaTeX 템플릿
 # Dankook University Graduate School Thesis Template
 
-> **대학원 학위논문의 작성지침 (PDF) 완전 준수 버전**
+> **대학원 학위논문 작성지침 기반 LaTeX 템플릿**
 
-## Statistics
+⭐ 템플릿이 도움이 되었다면 GitHub Star를 남겨주시면 큰 힘이 됩니다 :)
+
+## 통계
 
 ![Stars](https://img.shields.io/github/stars/imagesid/Dankook-Thesis-Latex?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/imagesid/Dankook-Thesis-Latex?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/imagesid/Dankook-Thesis-Latex?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=imagesid&repo=Dankook-Thesis-Latex&style=flat-square)
 
-[Download ZIP](https://github.com/imagesid/Dankook-Thesis-Latex/archive/refs/heads/main.zip)
+[ZIP 다운로드](https://github.com/imagesid/Dankook-Thesis-Latex/archive/refs/heads/main.zip)
 
 ## 파일 구조
 
@@ -41,7 +43,7 @@ figures/                       ← 그림 파일 저장
 2. **컴파일러: XeLaTeX** (Menu → Compiler → XeLaTeX) ← 필수!
 3. main.tex 컴파일
 
-## main.tex에서 수정할 정보
+## main.tex 수정 항목
 
 ```latex
 \newcommand{\thesistitleko}{논문 제목}
@@ -63,7 +65,7 @@ figures/                       ← 그림 파일 저장
 | 용지 | A4 |
 | 여백 | 상·하·좌·우 30mm / 머리말·꼬리말 15mm |
 | 줄간격 | 160% |
-| 들여쓰기 | 2 space |
+| 들여쓰기 | 2칸 |
 | 장 Ⅰ. | 16pt 가운데 bold |
 | 절 1. / 1.1 / 1.1.1 | 14pt 왼쪽 bold |
 | 본문 | 11pt (국문) / 12pt (영문) |
@@ -87,4 +89,4 @@ figures/                       ← 그림 파일 저장
 
 오류 수정, 기능 개선, 서식 개선 등 모든 기여를 환영합니다.
 
-Issue 및 Pull Request를 편하게 등록해 주세요.
+Issue 및 Pull Request를 자유롭게 등록해 주세요.
