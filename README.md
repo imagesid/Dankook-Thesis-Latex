@@ -3,6 +3,15 @@
 
 > **대학원 학위논문의 작성지침 (PDF) 완전 준수 버전**
 
+## Statistics
+
+![Stars](https://img.shields.io/github/stars/imagesid/Dankook-Thesis-Latex?style=flat-square)
+![Forks](https://img.shields.io/github/forks/imagesid/Dankook-Thesis-Latex?style=flat-square)
+![Issues](https://img.shields.io/github/issues/imagesid/Dankook-Thesis-Latex?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=imagesid&repo=Dankook-Thesis-Latex&style=flat-square)
+
+[Download ZIP](https://github.com/imagesid/Dankook-Thesis-Latex/archive/refs/heads/main.zip)
+
 ## 파일 구조
 
 ```
