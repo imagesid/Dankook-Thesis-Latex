@@ -67,3 +67,9 @@ figures/                       ← 그림 파일 저장
 겉표지 → 속지 → 속표지 → 제출지 → 심사판정지
 → 내용차례 → 국문초록 → 감사의글 → **본문**
 → 참고문헌 → 부록 → **영문초록** → 속지 → 뒤표지
+
+## Source
+
+This template was created based on the official Dankook University Graduate School thesis guideline and Microsoft Word template:
+
+- [Dankook University Graduate School Thesis Guideline](https://grad.dankook.ac.kr/-21?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=1&_dku_bbs_web_BbsPortlet_sKeyword=%ED%95%99%EC%9C%84&_dku_bbs_web_BbsPortlet_sKeyType=title&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=114775)
