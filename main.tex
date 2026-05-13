@@ -3,9 +3,12 @@
 %% Dankook University Graduate School - Engineering Thesis
 %% 작성지침 + 공학계열_학위논문작성틀.docx 기준
 %% Overleaf: XeLaTeX 컴파일러 사용 (Menu → Compiler → XeLaTeX)
+%% 이 템플릿이 도움이 되었다면 GitHub Star를 남겨주시면 큰 힘이 됩니다 :)
+%% https://github.com/imagesid/Dankook-Thesis-Latex
 %% ============================================================
 
 \documentclass[11pt, a4paper]{report}
+\newcounter{frontpage}
 
 %% ── 패키지 ────────────────────────────────────────────────
 \usepackage{geometry}
@@ -189,6 +192,9 @@
 %% ⑥ 목차 + List of Tables + List of Figures
 \input{pages/06_toc}
 
+% Save last frontmatter page number numerically
+\setcounter{frontpage}{\value{page}}
+
 %% ── 본문: 아라비아 쪽번호 (1, 2, 3 …) ──────────────────
 \mainmatter
 
@@ -204,7 +210,9 @@
 \input{pages/07_references}
 
 %% ⑨ 영문 초록 (앞부분 쪽번호 계속)
-\frontmatter
+\cleardoublepage
+\pagenumbering{roman}
+\setcounter{page}{\value{frontpage}}
 \input{pages/08_abstract_en}
 
 %% ⑩ 감사의 글
