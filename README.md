@@ -7,6 +7,7 @@
 
 - [Korean Version](https://github.com/imagesid/Dankook-Thesis-Latex)
 - [English Version](https://github.com/imagesid/Dankook-Thesis-Latex/tree/english)
+- [Korean CLS Version](https://github.com/imagesid/Dankook-Thesis-Latex/tree/korea-cls)
 
 ⭐ 템플릿이 도움이 되었다면 GitHub Star를 남겨주시면 큰 힘이 됩니다 :)
 
@@ -17,35 +18,10 @@
 ![Issues](https://img.shields.io/github/issues/imagesid/Dankook-Thesis-Latex?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=imagesid&repo=Dankook-Thesis-Latex&style=flat-square)
 
-[ZIP 다운로드](https://github.com/imagesid/Dankook-Thesis-Latex/archive/refs/heads/main.zip)
-
-## 파일 구조
-
-```
-main.tex                       ← 메인 파일
-pages/
-  01_cover.tex                 ← ① 겉표지 (서식 1)
-  02_blank.tex                 ← ② 속지
-  03_titlepage.tex             ← ③ 속표지 (서식 2)
-  04_submission.tex            ← ④ 제출지 (서식 3)
-  05_approval.tex              ← ⑤ 심사 판정지 (서식 4)
-  06_toc.tex                   ← ⑥ 내용 차례
-  07_abstract_ko.tex           ← ⑦ 국문 초록 (서식 5)
-  08_acknowledgements.tex      ← ⑧ 감사의 글
-  09_references.tex            ← ⑩ 참고문헌
-  11_abstract_en.tex           ← ⑫ 영문 초록 (서식 6)
-chapters/
-  chapter1_intro.tex           ← Ⅰ. 서론
-  chapter2_method.tex          ← Ⅱ. 이론적 배경 및 연구방법
-  chapter3_results.tex         ← Ⅲ. 결과 및 토의
-  chapter4_conclusion.tex      ← Ⅳ. 결론
-figures/                       ← 그림 파일 저장
-```
-
 ## Overleaf 업로드
 
 1. ZIP 업로드: New Project → Upload Project
-2. **컴파일러: XeLaTeX** (Menu → Compiler → XeLaTeX) ← 필수!
+2. **컴파일러: LuaLaTeX** (Menu → Compiler → LuaLaTeX) ← 필수!
 3. main.tex 컴파일
 
 ## main.tex 수정 항목
@@ -86,7 +62,7 @@ figures/                       ← 그림 파일 저장
 
 ## 출처
 
-본 템플릿은 단국대학교 대학원 학위논문 작성지침 및 Microsoft Word 양식을 참고하여 제작되었습니다.
+본 템플릿은 단국대학교 대학원 학위논문 작성지침 및 Hancom Docs 양식을 참고하여 제작되었습니다.
 
 - [단국대학교 대학원 학위논문 작성지침](https://grad.dankook.ac.kr/-21?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=1&_dku_bbs_web_BbsPortlet_sKeyword=%ED%95%99%EC%9C%84&_dku_bbs_web_BbsPortlet_sKeyType=title&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=114775)
 
